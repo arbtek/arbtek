@@ -4,7 +4,13 @@
 
 - <b>[Active Directory Home Lab]</b>
 - <b>[Password Strength Checker in Python](https://github.com/arbtek/password-stength-check)</b>
-  - [Hello World](https://github.com/arbtek)
+- <b>[Keylogger in Python](https://github.com/arbtek/keylogger/python)</b>
+- <b>[Packet Sniffer in Python](https://github.com/arbtek/packet-sniffer)</b>
+
+<h2> Software Development Projects:</h2>
+
+- <b>[Gdrive/Gmail Automation](https://github.com/arbtek/gdrive-com)</b>
+- <b>[Web scraper in Python](https://github.com/arbtek/web-scraper)</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
