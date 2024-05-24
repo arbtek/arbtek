@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>[Home Lab with Active Directory in using Windows](https://github.com/arbtek/active-directory/blob/main/Home%20Lab%20with%20Active%20Directory.pdf)</b>
 - <b>[Password Strength Checker in Python](https://github.com/arbtek/password-stength-check)</b>
 - <b>[Keylogger in Python](https://github.com/arbtek/keylogger/python)</b>
 - <b>[Packet Sniffer in Python](https://github.com/arbtek/packet-sniffer)</b>
